@@ -39,7 +39,6 @@
 [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](https://www.tensorflow.org/)
 [<img align="left" alt="Hive" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" style="padding-right:10px;" />](https://hadoop.apache.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/)
-[<img align="left" alt="BitBucket" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />](https://bitbucket.org/)
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" style="padding-right:10px;" />](https://flask.palletsprojects.com)
 [<img align="left" alt="SQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" style="padding-right:10px;" />](https://numpy.org/)
