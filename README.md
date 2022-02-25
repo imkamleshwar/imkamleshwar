@@ -47,7 +47,7 @@
 [<img align="left" alt="Akka" width="70px" src="https://akka.io/resources/images/akka_full_color.svg" style="padding-right:10px;" />](https://akka.io/)
 [<img align="left" alt="PySpark" width="58px" src="img/PySpark-logo-2.png" style="padding-right:10px;" />](https://spark.apache.org/docs/latest/api/python/)
 
-
+<br>
 <br />
 
 ---
