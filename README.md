@@ -79,7 +79,7 @@ To View/Download TensorFlow Certificate on **credential.net**, click here ❯❯
 
 
 
-[contact_me]: https://github.com/imkamleshwar/imkamleshwar/edit/main/README.md#connect-with-me
+[contact_me]: https://github.com/imkamleshwar#connect-with-me
 
 <!--
 **imkamleshwar/imkamleshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
