@@ -45,8 +45,9 @@
 [<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
 [<img align="left" alt="Putty" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" style="padding-right:10px;" />](https://www.putty.org/)
 [<img align="left" alt="Akka" width="70px" src="https://akka.io/resources/images/akka_full_color.svg" style="padding-right:10px;" />](https://akka.io/)
-[<img align="left" alt="PySpark" object-fit="cover" width="100px" height="auto" src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" style="padding-right:10px;" />](https://spark.apache.org/docs/latest/api/python/)
+[<img align="left" alt="PySpark" width="58px" src="img/PySpark-logo-2.png" style="padding-right:10px;" />](https://spark.apache.org/docs/latest/api/python/)
 
+<br>
 <br />
 
 ---
